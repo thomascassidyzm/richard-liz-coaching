@@ -1,0 +1,25 @@
+{
+  "name": "richard-liz-coaching",
+  "version": "2.0.0",
+  "description": "Live consciousness coaching with Richard & Liz - Simplified broadband awareness expansion platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "consciousness",
+    "coaching",
+    "broadband awareness",
+    "AI coaching"
+  ],
+  "author": "Richard & Liz",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
